@@ -1,2 +1,2 @@
 # Sample-Repository
-created to know about github
+i have made changes in my sub branch of master
